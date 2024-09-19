@@ -1,7 +1,7 @@
 # Ballista Command
 
 ## Introduction
-**Ballista Command** is an engaging arcade-style game developed as a modern variation of the classic *Missile Command*, with additional elements to enhance gameplay and challenge. The game was developed meticulously, adhering to both core and additional requirements to ensure the inclusion of essential mechanics expected from a game of this genre.
+**Ballista Command** is an engaging arcade-style game developed as a modern variation of the classic *Missile Command*, with additional elements to enhance gameplay and challenge. The game was developed meticulously, to ensure the inclusion of essential mechanics expected from a game of this genre.
 
 ### Core Requirements:
 - **Dynamic Object Creation**: Manages cities, ballistae, meteors, and bombs. Each wave introduces more meteors, requiring players to strategically use limited ammunition to defend their cities.
@@ -69,13 +69,3 @@ The game gradually increases difficulty, starting with 4 meteors per wave and ad
 
 ## Conclusion
 **Ballista Command** applies fundamental physics and collision detection to deliver a challenging and engaging experience. The game evolves the *Missile Command* concept by introducing splitting meteorites, enemy bombers, and additional gameplay mechanics. Through balanced play and rigorous testing, Ballista Command provides an enjoyable, dynamic challenge for players of all skill levels.
-
-Figures:
-- Figure 1: Start screen
-- Figure 2: Wave 1 in progress
-- Figure 3: Wave 2 with bomber dropping meteors
-- Figure 4: Splitting meteors after wave 1
-- Figure 5: Ballista shooting a bomb
-- Figure 6: Bomb explosion
-- Figure 7: City restoration after high score
-- Figure 8: Game over screen showing final score
