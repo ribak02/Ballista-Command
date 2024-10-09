@@ -2,6 +2,7 @@
 
 ## Introduction
 **Ballista Command** is an engaging arcade-style game developed as a modern variation of the classic *Missile Command*, with additional elements to enhance gameplay and challenge. The game was developed meticulously, to ensure the inclusion of essential mechanics expected from a game of this genre.
+![ballista](https://github.com/user-attachments/assets/e2633856-107e-4fd4-89a5-ec4035037916)
 
 ### Core Requirements:
 - **Dynamic Object Creation**: Manages cities, ballistae, meteors, and bombs. Each wave introduces more meteors, requiring players to strategically use limited ammunition to defend their cities.
